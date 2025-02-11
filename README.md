@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ### 2️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-repo/hybrid-time-series-forecasting.git
+git clone https://github.com/Harshith422/hybrid-time-series-forecasting.git
 cd hybrid-time-series-forecasting
 ```
 
